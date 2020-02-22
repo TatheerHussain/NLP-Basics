@@ -5,7 +5,7 @@ This repo is actually the comparison of different comedians based on their scrip
 
 
 ### 1. Download Anaconda
-I highly recommend that you download [the Python 3.7 version](https://www.anaconda.com/download/).
+Download python latest version .. [the Python 3.6 or higher](https://www.anaconda.com/download/).
 
 ### 2. Download the Jupyter Notebooks
 Clone or download this [Github repository](https://github.com/adashofdata/nlp-in-python-tutorial), so you have access to all the Jupyter Notebooks (.ipynb extension) in the tutorial.
