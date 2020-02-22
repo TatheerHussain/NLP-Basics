@@ -40,3 +40,4 @@ Your terminal should already be open. Type command-t to open a new tab.
 #### type 
 `conda install -c conda-forge gensim` to download gensim and `y` to proceed.
 
+#### Now you are ready for this journey. Good luck ahead
