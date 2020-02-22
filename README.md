@@ -13,7 +13,7 @@ Clone or download this [Github repository](https://github.com/adashofdata/nlp-in
 ### 3. Launch Anaconda and Open a Jupyter Notebook
 
 *Windows:*
-Open the Anaconda Navigator program. You should see the Jupyter Notebook logo. Below the logo, click Launch. A browser window should open up. In the browser window, navigate to the location of the saved Jupyter Notebook files and open 0-Hello-World.ipynb. Follow the instructions in the notebook.
+Open the Anaconda Navigator program. You should see the Jupyter Notebook logo. Below the logo, click Launch. A browser window should open up. In the browser window, navigate to the location of the saved Jupyter Notebook files and open 1-Data-cleaning.ipynb. Follow the instructions in the notebook.
 
 *Mac/Linux:*
 Open a terminal. Type ```jupyter notebook```. A browser should open up. In the browser window, navigate to the location of the saved Jupyter Notebook files and open 0-Hello-World.ipynb. Follow the instructions in the notebook.
