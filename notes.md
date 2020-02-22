@@ -2,12 +2,11 @@
 
 #### Setup Steps
 1. Download Anaconda
-2. Download nlp-in-python-tutorial repo on Github
-3. Test to see if you can open a Jupyter Notebook
-4. Download additional packages - wordcloud, textblob, gensim
+2. Download NLP-Basic repo on Github
+3. Download additional packages - wordcloud, textblob, gensim
 
 #### Resources
-* **Jupyter Notebook shortcuts**
+* **Jupyter Notebook shortcuts, If you are new to jupyter then follow the gui untill you get used to jupyter**
    * Run a cell of code: Shift+Enter
    * Insert a cell above: Esc-A
    * Insert a cell below: Esc-B
