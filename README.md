@@ -24,11 +24,11 @@ There are a few additional packages we'll be using during the tutorial that are 
 
 *Windows:*
 Open the Anaconda Prompt program. 
-####Type 
+#### Type 
 `conda install -c conda-forge wordcloud` to download wordcloud. 
-####Type 
+#### Type 
 `conda install -c conda-forge textblob` to download textblob
-####Type 
+#### Type 
 `conda install -c conda-forge gensim` to download gensim
 
 *Mac/Linux:*
