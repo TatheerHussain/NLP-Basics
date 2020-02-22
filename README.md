@@ -23,8 +23,17 @@ Open a terminal. Type ```jupyter notebook```. A browser should open up. In the b
 There are a few additional packages we'll be using during the tutorial that are not included when you download Anaconda - wordcloud, textblob and gensim.
 
 *Windows:*
-Open the Anaconda Prompt program. You should see a black window pop up. Type `conda install -c conda-forge wordcloud` to download wordcloud. You will be asked whether you want to proceed or not. Type `y` for yes. Once that is done, type `conda install -c conda-forge textblob` to download textblob and `y` to proceed, and type `conda install -c conda-forge gensim` to download gensim and `y` to proceed.
+Open the Anaconda Prompt program. 
+####Type 
+`conda install -c conda-forge wordcloud` to download wordcloud. 
+####Type 
+`conda install -c conda-forge textblob` to download textblob
+####Type 
+`conda install -c conda-forge gensim` to download gensim
 
 *Mac/Linux:*
-Your terminal should already be open. Type command-t to open a new tab. Type `conda install -c conda-forge wordcloud` to download wordcloud. You will be asked whether you want to proceed or not. Type `y` for yes. Once that is done, type `conda install -c conda-forge textblob` to download textblob and `y` to proceed, and type `conda install -c conda-forge gensim` to download gensim and `y` to proceed.
+Your terminal should already be open. Type command-t to open a new tab. 
+Type `conda install -c conda-forge wordcloud` to download wordcloud.
+type `conda install -c conda-forge textblob` to download textblob 
+type `conda install -c conda-forge gensim` to download gensim and `y` to proceed.
 
